@@ -6,8 +6,12 @@
 - The purpose of iostestdemo git repo is to combine (frank)  and (countitout) google sample iPhone app together
   to show the DOM element on your browser (symbiote) usually accessible via http://localhost:37265/#
 
-- It's all setup, all you need to do is git clone iostestdemo  and use XCode to open the project(CountItOut.xcodeproj)
-  and then build/run it.
+Step 1:
+- You will need Mac, XCode and iOS Simulator installed
+- It's all setup, all you need to do is git clone iostestdemo and use XCode to open the project file (CountItOut.xcodeproj).
+- Then you will need to build (command + b)
+- Then you will need to Run it
+- Then watch it do its magic in the simulator 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Note only if you want to set it up yourself:
