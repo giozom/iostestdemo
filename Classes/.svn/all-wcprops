@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/4/trunk/Classes
+END
+CountItOutAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/Classes/CountItOutAppDelegate.h
+END
+CountUpViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/Classes/CountUpViewController.h
+END
+NameValueCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/Classes/NameValueCell.h
+END
+CountItOutAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/Classes/CountItOutAppDelegate.m
+END
+CountDownViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/Classes/CountDownViewController.h
+END
+NewCounterSelectTypeController.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/Classes/NewCounterSelectTypeController.h
+END
+CountUpViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/Classes/CountUpViewController.m
+END
+NameValueCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/Classes/NameValueCell.m
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/Classes/RootViewController.h
+END
+CounterTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/Classes/CounterTypes.h
+END
+NewCounterSelectTypeController.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/Classes/NewCounterSelectTypeController.m
+END
+CountDownViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/Classes/CountDownViewController.m
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/Classes/RootViewController.m
+END
