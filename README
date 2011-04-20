@@ -12,7 +12,7 @@ Step 1:
 - Then you will need to build (command + b)
 - Then you will need to Run it
 - Then watch it do its magic in the simulator 
-
+- Then open up your chrome browser and go to http://localhost:37265 to view the DOM elements
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Note only if you want to set it up yourself:
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
